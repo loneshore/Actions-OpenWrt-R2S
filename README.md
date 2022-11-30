@@ -12,7 +12,7 @@ FriendlyElec NanoPi R2S OpenWrt固件自动化构建
 - 默认登录IP [10.0.0.1](http://10.0.0.1) 密码 无
 - 修改rootfs分区大小为800MB
 - 集成 htop fdisk cfdisk block-mount 等工具
-- 集成 Aria2 [Alist](https://github.com/sbwml/luci-app-alist) [Argon](https://github.com/jerrykuku/luci-theme-argon) Frpc QOS TTYD UPNP [Xray](https://github.com/yichya/luci-app-xray) 等插件
+- 集成 Aria2 [Alist](https://github.com/sbwml/luci-app-alist) [Argon](https://github.com/jerrykuku/luci-theme-argon) Frpc QoS TTYD UPnP [Xray](https://github.com/yichya/luci-app-xray) 等插件
 
 ## 安装
 

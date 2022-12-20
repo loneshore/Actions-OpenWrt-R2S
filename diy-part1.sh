@@ -14,6 +14,7 @@
 #sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
 # Add source
+git clone https://github.com/ntop/n2n.git package/n2n
 git clone https://github.com/yichya/luci-app-xray.git package/luci-app-xray
 git clone https://github.com/sbwml/luci-app-alist.git package/luci-app-alist
 git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
